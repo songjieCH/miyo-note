@@ -18,10 +18,10 @@ thumbs/
 _thumbs/
 */expressionengine/cache/*
 
+.idea/*
 node_modules/
 dist/
 src/public/app-dist/
-.idea/httpRequests/
 bin/
 images/
 data/
