@@ -18,7 +18,6 @@ thumbs/
 _thumbs/
 */expressionengine/cache/*
 
-.idea/*
 node_modules/
 dist/
 src/public/app-dist/
@@ -37,3 +36,4 @@ cert.crt
 server-package.json
 .eslintcache
 
+/.idea/
